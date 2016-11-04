@@ -10,7 +10,7 @@ public class LUISResult {
     private LUISEntity[] _entities;
 
     public void setEntities(LUISEntity[] entities) {
-        this._entities = _entities;
+        this._entities = entities;
     }
 
     public LUISEntity[] getEntities() {
